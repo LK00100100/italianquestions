@@ -1,6 +1,6 @@
 def solution(blocks: list):
     """
-
+    O(3n) or just O(n)
     :param blocks: int list of block heights. 0-indexed
     :return:
     """
